@@ -12,4 +12,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightboard&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - Hey there my name is visrut
-- linkedin : linkedin.com/in/visrut-navadiya-4498391a4
+- linkedin : [!Linkedin](https://linkedin.com/in/visrut-navadiya-4498391a4)

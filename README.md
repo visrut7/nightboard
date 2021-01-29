@@ -29,13 +29,3 @@
 
 </p>
 </details>
-
-
----
-<details><summary><strong>Click to see my most used languages 👨‍💻</strong></summary>
-  
-<p>
-  
-![Top Langs](https://github-readme-stats-2.arsenic-atg.vercel.app/api/top-langs/?username=nightboard&hide=TeX,QMake&layout=compact)
-
-</p>

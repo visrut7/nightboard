@@ -15,3 +15,27 @@
 
 - Hey there my name is visrut
 - Contact Me : [Linkedin](https://linkedin.com/in/visrut-navadiya-4498391a4)
+
+<details><summary><strong>Click to see my Profile stats 📊</strong></summary>
+<p>
+  
+![Customized Card](https://github-readme-stats-2.arsenic-atg.vercel.app/api?username=nightboard&show_icons=true&hide_border=true&count_private=true)
+
+</p>
+
+<p>
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=nightboard&theme=onedark)
+
+</p>
+</details>
+
+
+---
+<details><summary><strong>Click to see my most used languages 👨‍💻</strong></summary>
+  
+<p>
+  
+![Top Langs](https://github-readme-stats-2.arsenic-atg.vercel.app/api/top-langs/?username=nightboard&hide=TeX,QMake&layout=compact)
+
+</p>

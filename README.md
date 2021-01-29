@@ -17,11 +17,6 @@
 - Contact Me : [Linkedin](https://linkedin.com/in/visrut-navadiya-4498391a4)
 
 <details><summary><strong>Click to see my Profile stats 📊</strong></summary>
-<p>
-  
-![Customized Card](https://github-readme-stats-2.arsenic-atg.vercel.app/api?username=nightboard&show_icons=true&hide_border=true&count_private=true)
-
-</p>
 
 <p>
   

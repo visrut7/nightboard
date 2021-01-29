@@ -10,7 +10,6 @@
 
 
 [![visrut's github stats](https://github-readme-stats.vercel.app/api?username=nightboard&show_icons=true&theme=radical)](https://github.com/nightboard)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightboard&layout=compact&theme=radical)](https://github.com/nightboard)
 
 *Github statistics [credit](https://github.com/anuraghazra/github-readme-stats) to [Anurag Hazra](https://github.com/anuraghazra)*

@@ -7,9 +7,19 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![visrut's github stats](https://github-readme-stats.vercel.app/api?username=nightboard&show_icons=true&theme=radical)](https://github.com/nightboard)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightboard&layout=compact&theme=radical)](https://github.com/nightboard)
+<p align="center">
+  [![visrut's github stats](https://github-readme-stats.vercel.app/api?username=nightboard&show_icons=true&theme=radical)](https://github.com/nightboard)
+</p>
+
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightboard&layout=compact&theme=radical)](https://github.com/nightboard)
+</p>
+
+<p align="center"> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=nightboard"/>  &nbsp; &nbsp;
+  <img src="https://firstcontributions.github.io/open-source-badges/badges/open-source-v3/open-source.svg">
+</p>
 
 *Github statistics [credit](https://github.com/anuraghazra/github-readme-stats) to [Anurag Hazra](https://github.com/anuraghazra)*
 

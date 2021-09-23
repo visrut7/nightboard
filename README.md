@@ -13,8 +13,21 @@
 <p> Also if you want i can also contribute to your project just mail me your github url or message me in linked in </p>
 <p> visrutnavadiya111@gmail.com </p>
 
-[![visrut's github stats](https://github-readme-stats.vercel.app/api?username=nightboard&show_icons=true&theme=radical)](https://github.com/nightboard)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightboard&layout=compact&theme=radical)](https://github.com/nightboard)
+<p align="center">
+  <a href="https://github.com/nightboard">
+    <img src="https://github-readme-stats.vercel.app/api?username=nightboard&show_icons=true&theme=nord"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/nightboard">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightboard&layout=compact&theme=nord"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/nightboard">
+    <img src="https://github-readme-stats.vercel.app/api?username=nightboard&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=nord"/>
+  </a>
+</p>
 
 *Github statistics [credit](https://github.com/anuraghazra/github-readme-stats) to [Anurag Hazra](https://github.com/anuraghazra)*
 

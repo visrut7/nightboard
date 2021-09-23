@@ -15,17 +15,12 @@
 
 <p align="center">
   <a href="https://github.com/nightboard">
-    <img src="https://github-readme-stats.vercel.app/api?username=nightboard&show_icons=true&theme=nord"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nightboard&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=nord"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/nightboard">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightboard&layout=compact&theme=nord"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/nightboard">
-    <img src="https://github-readme-stats.vercel.app/api?username=nightboard&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=nord"/>
   </a>
 </p>
 

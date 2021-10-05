@@ -20,7 +20,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/nightboard">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightboard&layout=compact&theme=nord"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightboard&layout=compact&theme=nord&langs_count=10"/>
   </a>
 </p>
 

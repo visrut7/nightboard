@@ -13,26 +13,15 @@
 <p> Also if you want i can also contribute to your project just mail me your github url or message me in linked in </p>
 
 <p align="center">
-  <a href="https://github.com/nightboard">
-    <img src="https://github-readme-stats.vercel.app/api?username=nightboard&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=nord"/>
+  <a href="https://github.com/visrut7">
+    <img src="https://github-readme-stats.vercel.app/api?username=visrut7&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=nord"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/nightboard">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightboard&layout=compact&theme=nord&langs_count=10"/>
+  <a href="https://github.com/visrut7">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visrut7&layout=compact&theme=nord&langs_count=10"/>
   </a>
 </p>
 
-*Github statistics [credit](https://github.com/anuraghazra/github-readme-stats) to [Anurag Hazra](https://github.com/anuraghazra)*
-
 - Hey there my name is visrut
 - Contact Me : [Linkedin](https://linkedin.com/in/visrut-navadiya-4498391a4)
-
-<details><summary><strong>Click to see my Profile stats 📊</strong></summary>
-
-<p>
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=nightboard&theme=onedark)
-
-</p>
-</details>
